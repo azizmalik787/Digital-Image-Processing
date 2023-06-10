@@ -2,7 +2,7 @@
 Digital Image Processing Projects done on MATLAB.<br>
 Name: Muhammad Aziz.<br>
 Professor: Dr. Usman.<br>
-T.A: Mam Sofia.<br>
+T.A: Ma'am Sofia.<br>
 
 Digital Image Processing<br>
 Project I <br>
